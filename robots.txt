@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maxxmann.github.io/snippets-jff936/sitemap.xml
